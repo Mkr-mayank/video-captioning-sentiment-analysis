@@ -93,3 +93,10 @@ video-captioning-sentiment-analysis/
 │ └── loss_graph.png
 └── README.md
 
+---
+
+## 🚀 Future Enhancements
+
+- Add real-time video captioning and sentiment feedback  
+- Expand to multilingual captioning and analysis  
+- Integrate attention or transformer-based decoders for better context modeling  
