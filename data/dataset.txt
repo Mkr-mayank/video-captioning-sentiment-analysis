@@ -1,0 +1,3 @@
+MSVD Video Clips: https://www.kaggle.com/datasets/sarthakjain004/msvd-clips
+MSVD Caption Corpus: https://www.kaggle.com/datasets/vtrnanh/msvd-dataset-corpus 
+Test Dataset: https://www.kaggle.com/datasets/csecemk128/testing-dataset
